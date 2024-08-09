@@ -1,0 +1,7 @@
+﻿  DigitalKeyboard.cpp
+D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\CPPDigitalKeyboard\DigitalKeyboard.h(1946,18): warning C4129: '}': unrecognized character escape sequence
+D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\CPPDigitalKeyboard\DigitalKeyboard.cpp(7,15): warning C4551: function call missing argument list
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  DigitalKeyboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CPPDigitalKeyboard.vcxproj -> D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.exe

@@ -1,0 +1,10 @@
+D:\temp\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.AssemblyReference.cache
+D:\temp\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.SuggestedBindingRedirects.cache
+D:\temp\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.DigitalKeyboard.resources
+D:\temp\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.GenerateResource.cache
+D:\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.AssemblyReference.cache
+D:\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.DigitalKeyboard.resources
+D:\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.GenerateResource.cache
+D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.AssemblyReference.cache
+D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.DigitalKeyboard.resources
+D:\MY PROJECTS\C++ Projects\CPPDigitalKeyboard\CPPDigitalKeyboard\x64\Debug\CPPDigitalKeyboard.vcxproj.GenerateResource.cache
